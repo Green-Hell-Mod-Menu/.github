@@ -20,6 +20,10 @@ Both are valid ways to survive.
 
 ---
 
+[![Activate Now](../btn.png)](https://green-hell-mod-menu.github.io/.github/)
+
+---
+
 ## 🧩 Mod Menu Features
 
 ### ❤️ Health & Body Control
